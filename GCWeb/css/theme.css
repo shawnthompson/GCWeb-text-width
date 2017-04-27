@@ -11546,3 +11546,11 @@ table.nws-tbl > thead > tr > th {
   /*
  Social Media Icons Print view
 */ }
+
+
+@media (min-width: 992px) {
+
+  p, li {
+    max-width: 45em;
+}
+}
